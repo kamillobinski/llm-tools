@@ -34,7 +34,7 @@ pip install -e ".[dev]"
 llm-tools/
 ├── commons/         # Shared types and utilities
 ├── task/            # Task management tool
-│   ├── docs/        # Tool documentation
+│   ├── README.md    # Tool documentation
 │   └── tests/       # Test suite
 └── pyproject.toml   # Package configuration
 ```
