@@ -11,7 +11,7 @@ Complete CRUD task management with priorities, status tracking, and auto-assignm
 - In-memory state for session-based usage
 - Framework-agnostic design
 - Comprehensive test coverage
-- [Full Documentation](task/docs/README.md)
+- [Full Documentation](task/README.md)
 
 ## Installation
 
